@@ -1,6 +1,6 @@
-# MVP3000 ESP32/ESP8266
+# MVP3000 Controller
 
-Welcome to the **MVP3000 ESP32/ESP8266** repository, an integral part of the **MVP3000** rapid prototyping framework
+Welcome to the **MVP3000 Controller** repository, an integral part of the **MVP3000** rapid prototyping framework
 
 The **MVP3000** framework is written for and by very early stage startup projects/companies. It aims to streamline the development and testing of new sensor or manipulation hardware and the consecutive transfer from the basic concept to a minimum viable product (MVP), a demonstrator device, or an independent setup for applications like manufacturing process control. It is build around readily available low-cost hardware and open software solutions.
 
